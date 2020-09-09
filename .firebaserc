@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-tutorial-e1742": {
+      "hosting": {
+        "angular-shopping-cart": [
+          "angular-tutorial-e1742"
+        ]
+      }
+    }
+  }
+}
